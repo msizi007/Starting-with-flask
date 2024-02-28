@@ -13,7 +13,7 @@ These are the steps that will get you started with flask, just follow the steps 
 5. type **cd directoryName** where directoryName is the name of your directory
 6. install the virtual environment package py typing **pip install virtualenv**
 7. create a virtual environment by typing **python -m venv venvflask**. you can replace **venvflask** with your own virtual environment name
-8. Once you have a virtual environment you need tp activate it by **.\venvflask\Scripts\activate**. note, **venvflask** is the name of your virtual environment, you can only name it what you named when creating the environment.
+8. Once you have a virtual environment you need tp activate it by **.\venvflask\Scripts\activate** or **venvflask\Scripts\activate**. note, **venvflask** is the name of your virtual environment, you can only name it what you named when creating the environment.
    - The display should appear from something like **C:\Users\Berry\FlaskWebApp>** to **(venvflask) C:\Users\Berry\FlaskWebApp>**.
 9. you are now inside a virtual environment so you can install any packages. start with installing flask by **pip install flask**, type **pip freeze** to check packages inside your environment.
 10. type **echo.>** **main.py** to create your main file.
