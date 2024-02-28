@@ -2,7 +2,7 @@
 
 These are the steps that will get you started with flask, just follow the steps and for more information you will be provided with altenative options:
 
-1. Go to [python.org]([python.org](https://www.python.org/)) and istall python if you hadn't installed it.
+1. Go to [python.org](https://www.python.org/) and istall python if you hadn't installed it.
 2. Make sure when installing python you tick the checkbox that says **ADD Python to PATH** and tap install now. You could also go to advanced options and check the checkbox that talks about environment variable
    ![image that has add path checkbox](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ics.uci.edu%2F~pattis%2Fcommon%2Fhandouts%2Fpythoneclipsejava%2Fimages%2Fpython%2Fpythonsetup.jpg&f=1&nofb=1&ipt=c36665c00912451ebd97f73ccae7d2f00409c9600c8aa7f87b0a3b2ef99c0e83&ipo=images)
    ![python advanced image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.easytweaks.com%2Fwp-content%2Fuploads%2F2022%2F01%2Fadd_python_path_windows_10.png&f=1&nofb=1&ipt=6d75f58a899fe4a3799036fdea4d5a9f8121ef673f627a7e1af96ca94066f561&ipo=images)
